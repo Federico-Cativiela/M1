@@ -15,7 +15,7 @@ function BinarioADecimal(num) {
 //10110
 //43210
 // muy probablemente tenga que hacer un FOR
-//
+//Fede 1234
 }
 // estructura repetitiva definida => FOR
 // estructura repetitiva indefinida => WHILE
